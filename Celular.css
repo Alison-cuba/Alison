@@ -1,0 +1,56 @@
+@media (max-width : 701px ){
+	body {
+		background-color: aliceblue;
+	}
+	div#caja1 {
+		width: 80%;
+		height: 50px;
+		margin: auto;
+		background-color: yellowgreen;
+	}
+	div#caja2 {
+		width: 80%;
+		height: 200px;
+		margin: auto;
+		background-color: yellow;
+	}
+	div#uno {
+		width: 30%;
+		height: 100px;
+		margin: auto;
+		background-color: wheat;
+	}
+	div#dos {
+		width: 30%;
+		height: 100px;
+		margin: auto;
+		background-color: violet;
+	}	
+	div#tres {
+		width: 30%;
+		height: 100px;
+		margin: auto;
+		background-color:turquoise;
+	}
+	div#cinco {
+		width: 100%;
+		height: 100px;
+		margin: auto;
+		background-color: tomato;
+	}
+	div#ocho {
+		width: 100px;
+		height: 100px;
+		margin: auto;
+		background-color:thistle;
+		border-radius: 70px;
+		border: 5px solid #C600AA;
+	}
+	div#caja6 {
+		width: 100%;
+		height: 50px;
+		margin: auto;
+		background-color: teal;
+	}
+
+}
